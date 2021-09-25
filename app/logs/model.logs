@@ -345,3 +345,132 @@
 [INFO][Multisensor-Dataset][2021-09-25 03:21:04,224]: Used logistic regression with solver saga and multi class name is ovr
 [INFO][Multisensor-Dataset][2021-09-25 03:21:12,067]: Training the model with solver saga and multi class name is ovr
 [INFO][Multisensor-Dataset][2021-09-25 03:21:12,077]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 20:10:23,458]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 20:10:23,815]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 20:12:36,315]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 20:12:36,642]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 20:18:07,047]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 20:18:07,378]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 20:23:09,310]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 20:23:09,630]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 20:27:49,885]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 20:27:50,255]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 20:30:38,304]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 20:30:38,643]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 20:36:33,416]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 20:36:33,439]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 20:39:00,203]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 20:39:00,229]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 20:39:00,230]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 20:44:54,900]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 20:44:54,929]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 20:44:54,930]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 20:58:10,644]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 20:58:10,685]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 20:58:10,686]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:00:09,643]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:00:09,670]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:00:09,670]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:05:34,923]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:05:34,955]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:05:34,955]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:09:03,768]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:09:03,790]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:09:03,790]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:13:15,549]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:13:15,577]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:13:15,578]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:17:11,506]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:17:11,526]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:17:11,527]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:23:00,471]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:23:00,493]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:23:00,493]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:24:54,383]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:24:54,410]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:24:54,433]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:29:03,890]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:29:03,911]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:29:03,940]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:33:29,139]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:33:29,143]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:33:29,165]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:33:29,187]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:36:53,988]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:36:54,297]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:36:54,297]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:36:55,475]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:36:55,478]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 21:36:55,482]: ('confusion_matrix', array([[ 488,    1,   13,    0,   71,   31,    0],
+       [  24,  288,   17,   48,   34,    5,    6],
+       [   8,   13,  805,    5,   72,   31,  525],
+       [   0,   22,    3, 1270,    9,  100,    1],
+       [  37,   98,   43,  250,  470,  484,    9],
+       [   5,    0,   27,  205,  298,  986,    8],
+       [   1,   14,  378,    0,    8,    8, 1046]]))
+[INFO][Multisensor-Dataset][2021-09-25 21:36:55,933]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:36:55,933]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:36:57,180]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:36:57,182]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 21:37:11,464]: ('crs_vldtn', 0.6347125021870811)
+[INFO][Multisensor-Dataset][2021-09-25 21:37:11,779]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:37:12,101]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:37:12,102]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:37:13,641]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:37:13,649]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 21:37:13,715]: ('classification_report', '              precision    recall  f1-score   support\n\n           0       0.87      0.81      0.84       604\n           1       0.66      0.68      0.67       422\n           2       0.63      0.55      0.59      1459\n           3       0.71      0.90      0.80      1405\n           4       0.49      0.34      0.40      1391\n           5       0.60      0.64      0.62      1529\n           6       0.66      0.72      0.69      1455\n\n    accuracy                           0.65      8265\n   macro avg       0.66      0.66      0.66      8265\nweighted avg       0.64      0.65      0.64      8265\n')
+[INFO][Multisensor-Dataset][2021-09-25 21:40:36,296]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:40:36,636]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:40:36,637]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:40:42,509]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:43:27,234]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:43:27,549]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:43:27,550]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:43:32,719]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:45:50,632]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:45:50,947]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:45:50,947]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:45:56,356]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:49:06,278]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:49:06,595]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:49:06,596]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:49:12,004]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:49:12,420]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:49:12,421]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:49:16,992]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:50:00,253]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:50:00,545]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:50:00,546]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:50:04,612]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:50:04,668]: ('classification_report', '              precision    recall  f1-score   support\n\n           0       0.87      0.81      0.84       604\n           1       0.66      0.68      0.67       422\n           2       0.63      0.55      0.59      1459\n           3       0.71      0.90      0.80      1405\n           4       0.49      0.34      0.40      1391\n           5       0.60      0.64      0.62      1529\n           6       0.66      0.72      0.69      1455\n\n    accuracy                           0.65      8265\n   macro avg       0.66      0.66      0.66      8265\nweighted avg       0.64      0.65      0.64      8265\n')
+[INFO][Multisensor-Dataset][2021-09-25 21:51:04,786]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:51:04,787]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:51:12,203]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:55:21,405]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:55:21,738]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:55:21,738]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:55:28,558]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:55:28,998]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:55:28,998]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:55:34,118]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:56:19,904]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:56:20,224]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:56:20,226]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:56:24,248]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:56:54,985]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:56:54,987]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:57:01,297]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 21:59:55,728]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:59:56,046]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 21:59:56,047]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 22:00:02,779]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 22:00:03,262]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 22:00:03,262]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 22:00:07,619]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 22:00:48,813]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 22:00:49,117]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 22:00:49,118]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 22:00:52,622]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 22:01:19,930]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 22:01:19,933]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 22:01:25,451]: Training the model with solver saga and multi class name is ovr

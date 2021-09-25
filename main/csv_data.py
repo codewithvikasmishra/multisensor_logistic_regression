@@ -18,9 +18,10 @@ def get_files(folder_name=str):
                         if os.path.splitext(i)[1]=='.csv':
                             logger.info("csv files : {}".format(str(i)))
                             file.append([trgt,root+'/'+i])
+            return file
         except Exception as e:
             logger.error("given folder is not available",e)
-    return file
+    
 
 def get_data(tgt_folder=str):
     data_frame = pd.DataFrame()
