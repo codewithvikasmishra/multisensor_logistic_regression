@@ -1,0 +1,347 @@
+[INFO][Multisensor-Dataset][2021-09-21 18:31:43,939]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:31:44,255]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:31:44,255]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:31:45,831]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:31:45,835]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 18:31:45,846]: ('confusion_matrix', array([[ 488,    1,   13,    0,   71,   31,    0],
+       [  24,  288,   17,   48,   34,    5,    6],
+       [   8,   13,  805,    5,   72,   31,  525],
+       [   0,   22,    3, 1270,    9,  100,    1],
+       [  37,   98,   43,  250,  470,  484,    9],
+       [   5,    0,   27,  205,  298,  986,    8],
+       [   1,   14,  378,    0,    8,    8, 1046]]))
+[INFO][Multisensor-Dataset][2021-09-21 18:31:46,165]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:31:46,166]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:31:47,735]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:31:47,737]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 18:32:05,351]: ('crs_vldtn', 0.6347367035423569)
+[INFO][Multisensor-Dataset][2021-09-21 18:32:05,675]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:32:05,989]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:32:05,989]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:32:07,462]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:32:07,464]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 18:32:07,486]: ('classification_report', '              precision    recall  f1-score   support\n\n           0       0.87      0.81      0.84       604\n           1       0.66      0.68      0.67       422\n           2       0.63      0.55      0.59      1459\n           3       0.71      0.90      0.80      1405\n           4       0.49      0.34      0.40      1391\n           5       0.60      0.64      0.62      1529\n           6       0.66      0.72      0.69      1455\n\n    accuracy                           0.65      8265\n   macro avg       0.66      0.66      0.66      8265\nweighted avg       0.64      0.65      0.64      8265\n')
+[INFO][Multisensor-Dataset][2021-09-21 18:35:31,696]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:35:32,031]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:35:32,032]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:35:33,715]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:35:33,718]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 18:35:33,729]: ('confusion_matrix', array([[ 488,    1,   13,    0,   71,   31,    0],
+       [  24,  288,   17,   48,   34,    5,    6],
+       [   8,   13,  805,    5,   72,   31,  525],
+       [   0,   22,    3, 1270,    9,  100,    1],
+       [  37,   98,   43,  250,  470,  484,    9],
+       [   5,    0,   27,  205,  298,  986,    8],
+       [   1,   14,  378,    0,    8,    8, 1046]]))
+[INFO][Multisensor-Dataset][2021-09-21 18:35:34,069]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:35:34,070]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:35:35,718]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:35:35,723]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 18:35:59,397]: ('crs_vldtn', 0.6346883008318052)
+[INFO][Multisensor-Dataset][2021-09-21 18:35:59,763]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:36:00,105]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:36:00,106]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:36:02,153]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:36:02,156]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 18:36:02,198]: ('classification_report', '              precision    recall  f1-score   support\n\n           0       0.87      0.81      0.84       604\n           1       0.66      0.68      0.67       422\n           2       0.63      0.55      0.59      1459\n           3       0.71      0.90      0.80      1405\n           4       0.49      0.34      0.40      1391\n           5       0.60      0.64      0.62      1529\n           6       0.66      0.72      0.69      1455\n\n    accuracy                           0.65      8265\n   macro avg       0.66      0.66      0.66      8265\nweighted avg       0.64      0.65      0.64      8265\n')
+[INFO][Multisensor-Dataset][2021-09-21 18:36:02,577]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:36:02,993]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:36:02,993]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:36:04,902]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:36:04,905]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 18:47:16,085]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:47:16,481]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:47:16,482]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:47:18,068]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:47:18,077]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 18:47:18,091]: ('confusion_matrix', array([[ 488,    1,   13,    0,   71,   31,    0],
+       [  24,  288,   17,   48,   34,    5,    6],
+       [   8,   13,  805,    5,   72,   31,  525],
+       [   0,   22,    3, 1270,    9,  100,    1],
+       [  37,   98,   43,  250,  470,  484,    9],
+       [   5,    0,   27,  205,  298,  986,    8],
+       [   1,   14,  378,    0,    8,    8, 1046]]))
+[INFO][Multisensor-Dataset][2021-09-21 18:47:18,521]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:47:18,522]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:47:20,058]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:47:20,060]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 18:47:39,847]: ('crs_vldtn', 0.6346883008318052)
+[INFO][Multisensor-Dataset][2021-09-21 18:47:40,189]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:47:40,570]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:47:40,570]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:47:42,385]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:47:42,401]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 18:47:42,466]: ('classification_report', '              precision    recall  f1-score   support\n\n           0       0.87      0.81      0.84       604\n           1       0.66      0.68      0.67       422\n           2       0.63      0.55      0.59      1459\n           3       0.71      0.90      0.80      1405\n           4       0.49      0.34      0.40      1391\n           5       0.60      0.64      0.62      1529\n           6       0.66      0.72      0.69      1455\n\n    accuracy                           0.65      8265\n   macro avg       0.66      0.66      0.66      8265\nweighted avg       0.64      0.65      0.64      8265\n')
+[INFO][Multisensor-Dataset][2021-09-21 18:50:51,956]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:50:52,346]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:50:52,346]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:50:53,913]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:50:53,923]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 18:50:53,946]: ('confusion_matrix', array([[ 488,    1,   13,    0,   71,   31,    0],
+       [  24,  288,   17,   48,   34,    5,    6],
+       [   8,   13,  805,    5,   72,   31,  525],
+       [   0,   22,    3, 1270,    9,  100,    1],
+       [  37,   98,   43,  250,  470,  484,    9],
+       [   5,    0,   27,  205,  298,  986,    8],
+       [   1,   14,  378,    0,    8,    8, 1046]]))
+[INFO][Multisensor-Dataset][2021-09-21 18:50:54,366]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:50:54,368]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:50:56,126]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:50:56,140]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 18:51:16,233]: ('crs_vldtn', 0.6347125021870811)
+[INFO][Multisensor-Dataset][2021-09-21 18:51:16,610]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:51:16,990]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:51:16,995]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:51:18,479]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:51:18,483]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 18:51:18,522]: ('classification_report', '              precision    recall  f1-score   support\n\n           0       0.87      0.81      0.84       604\n           1       0.66      0.68      0.67       422\n           2       0.63      0.55      0.59      1459\n           3       0.71      0.90      0.80      1405\n           4       0.49      0.34      0.40      1391\n           5       0.60      0.64      0.62      1529\n           6       0.66      0.72      0.69      1455\n\n    accuracy                           0.65      8265\n   macro avg       0.66      0.66      0.66      8265\nweighted avg       0.64      0.65      0.64      8265\n')
+[INFO][Multisensor-Dataset][2021-09-21 18:52:01,225]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:52:01,569]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:52:01,569]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:52:03,939]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:52:03,964]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 18:53:35,859]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:53:36,278]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:53:36,278]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:53:38,071]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:53:38,085]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 18:55:19,866]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:55:20,354]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 18:55:20,359]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:55:22,351]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 18:55:22,357]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 19:01:29,972]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 19:01:30,397]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 19:01:30,398]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:01:31,900]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:01:31,909]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 19:01:31,928]: ('confusion_matrix', array([[ 488,    1,   13,    0,   71,   31,    0],
+       [  24,  288,   17,   48,   34,    5,    6],
+       [   8,   13,  805,    5,   72,   31,  525],
+       [   0,   22,    3, 1270,    9,  100,    1],
+       [  37,   98,   43,  250,  470,  484,    9],
+       [   5,    0,   27,  205,  298,  986,    8],
+       [   1,   14,  378,    0,    8,    8, 1046]]))
+[INFO][Multisensor-Dataset][2021-09-21 19:01:32,277]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 19:01:32,278]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:01:33,858]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:01:33,865]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 19:01:52,487]: ('crs_vldtn', 0.6347367035423569)
+[INFO][Multisensor-Dataset][2021-09-21 19:01:52,839]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 19:01:53,168]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 19:01:53,168]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:01:54,734]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:01:54,744]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 19:01:54,792]: ('classification_report', '              precision    recall  f1-score   support\n\n           0       0.87      0.81      0.84       604\n           1       0.66      0.68      0.67       422\n           2       0.63      0.55      0.59      1459\n           3       0.71      0.90      0.80      1405\n           4       0.49      0.34      0.40      1391\n           5       0.60      0.64      0.62      1529\n           6       0.66      0.72      0.69      1455\n\n    accuracy                           0.65      8265\n   macro avg       0.66      0.66      0.66      8265\nweighted avg       0.64      0.65      0.64      8265\n')
+[INFO][Multisensor-Dataset][2021-09-21 19:02:59,791]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 19:02:59,795]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:03:01,785]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:03:01,795]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 19:07:12,983]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 19:07:12,986]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:07:15,124]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:07:15,139]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 19:12:30,556]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 19:12:30,923]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 19:12:30,925]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:12:32,925]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:12:32,948]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 19:12:32,985]: ('confusion_matrix', array([[ 488,    1,   13,    0,   71,   31,    0],
+       [  24,  288,   17,   48,   34,    5,    6],
+       [   8,   13,  805,    5,   72,   31,  525],
+       [   0,   22,    3, 1270,    9,  100,    1],
+       [  37,   98,   43,  250,  470,  484,    9],
+       [   5,    0,   27,  205,  298,  986,    8],
+       [   1,   14,  378,    0,    8,    8, 1046]]))
+[INFO][Multisensor-Dataset][2021-09-21 19:12:33,442]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 19:12:33,444]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:12:35,031]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:12:35,034]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 19:12:55,348]: ('crs_vldtn', 0.6347125021870811)
+[INFO][Multisensor-Dataset][2021-09-21 19:12:55,701]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 19:12:56,021]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 19:12:56,021]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:12:57,536]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:12:57,545]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 19:12:57,595]: ('classification_report', '              precision    recall  f1-score   support\n\n           0       0.87      0.81      0.84       604\n           1       0.66      0.68      0.67       422\n           2       0.63      0.55      0.59      1459\n           3       0.71      0.90      0.80      1405\n           4       0.49      0.34      0.40      1391\n           5       0.60      0.64      0.62      1529\n           6       0.66      0.72      0.69      1455\n\n    accuracy                           0.65      8265\n   macro avg       0.66      0.66      0.66      8265\nweighted avg       0.64      0.65      0.64      8265\n')
+[INFO][Multisensor-Dataset][2021-09-21 19:13:29,888]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 19:13:29,890]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:13:32,155]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:13:32,187]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 19:16:30,645]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 19:16:31,029]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 19:16:31,030]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:16:32,481]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:16:32,483]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 19:16:32,495]: ('confusion_matrix', array([[ 488,    1,   13,    0,   71,   31,    0],
+       [  24,  288,   17,   48,   34,    5,    6],
+       [   8,   13,  805,    5,   72,   31,  525],
+       [   0,   22,    3, 1270,    9,  100,    1],
+       [  37,   98,   43,  250,  470,  484,    9],
+       [   5,    0,   27,  205,  298,  986,    8],
+       [   1,   14,  378,    0,    8,    8, 1046]]))
+[INFO][Multisensor-Dataset][2021-09-21 19:16:32,896]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 19:16:32,897]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:16:34,234]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:16:34,237]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 19:16:49,911]: ('crs_vldtn', 0.6347367035423569)
+[INFO][Multisensor-Dataset][2021-09-21 19:16:50,269]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 19:16:50,585]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 19:16:50,586]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:16:51,962]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:16:51,966]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-21 19:16:52,014]: ('classification_report', '              precision    recall  f1-score   support\n\n           0       0.87      0.81      0.84       604\n           1       0.66      0.68      0.67       422\n           2       0.63      0.55      0.59      1459\n           3       0.71      0.90      0.80      1405\n           4       0.49      0.34      0.40      1391\n           5       0.60      0.64      0.62      1529\n           6       0.66      0.72      0.69      1455\n\n    accuracy                           0.65      8265\n   macro avg       0.66      0.66      0.66      8265\nweighted avg       0.64      0.65      0.64      8265\n')
+[INFO][Multisensor-Dataset][2021-09-21 19:17:24,968]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-21 19:17:24,970]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:17:27,163]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-21 19:17:27,191]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 01:07:16,764]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 01:07:17,074]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 01:07:17,074]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 01:07:18,232]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 01:07:18,236]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 01:07:18,246]: ('confusion_matrix', array([[ 488,    1,   13,    0,   71,   31,    0],
+       [  24,  288,   17,   48,   34,    5,    6],
+       [   8,   13,  805,    5,   72,   31,  525],
+       [   0,   22,    3, 1270,    9,  100,    1],
+       [  37,   98,   43,  250,  470,  484,    9],
+       [   5,    0,   27,  205,  298,  986,    8],
+       [   1,   14,  378,    0,    8,    8, 1046]]))
+[INFO][Multisensor-Dataset][2021-09-25 01:07:18,588]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 01:07:18,588]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 01:07:19,732]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 01:07:19,738]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 01:07:33,672]: ('crs_vldtn', 0.6346883008318052)
+[INFO][Multisensor-Dataset][2021-09-25 01:07:34,006]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 01:07:34,316]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 01:07:34,316]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 01:07:35,536]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 01:07:35,540]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 01:07:35,582]: ('classification_report', '              precision    recall  f1-score   support\n\n           0       0.87      0.81      0.84       604\n           1       0.66      0.68      0.67       422\n           2       0.63      0.55      0.59      1459\n           3       0.71      0.90      0.80      1405\n           4       0.49      0.34      0.40      1391\n           5       0.60      0.64      0.62      1529\n           6       0.66      0.72      0.69      1455\n\n    accuracy                           0.65      8265\n   macro avg       0.66      0.66      0.66      8265\nweighted avg       0.64      0.65      0.64      8265\n')
+[INFO][Multisensor-Dataset][2021-09-25 01:14:03,652]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 01:14:03,971]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 01:14:03,972]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 01:14:05,177]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 01:14:05,180]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 01:14:05,189]: ('confusion_matrix', array([[ 488,    1,   13,    0,   71,   31,    0],
+       [  24,  288,   17,   48,   34,    5,    6],
+       [   8,   13,  805,    5,   72,   31,  525],
+       [   0,   22,    3, 1270,    9,  100,    1],
+       [  37,   98,   43,  250,  470,  484,    9],
+       [   5,    0,   27,  205,  298,  986,    8],
+       [   1,   14,  378,    0,    8,    8, 1046]]))
+[INFO][Multisensor-Dataset][2021-09-25 01:14:05,497]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 01:14:05,498]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 01:14:06,786]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 01:14:06,788]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 01:14:20,729]: ('crs_vldtn', 0.6346883008318052)
+[INFO][Multisensor-Dataset][2021-09-25 01:14:21,039]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 01:14:21,356]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 01:14:21,357]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 01:14:22,630]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 01:14:22,632]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 01:14:22,656]: ('classification_report', '              precision    recall  f1-score   support\n\n           0       0.87      0.81      0.84       604\n           1       0.66      0.68      0.67       422\n           2       0.63      0.55      0.59      1459\n           3       0.71      0.90      0.80      1405\n           4       0.49      0.34      0.40      1391\n           5       0.60      0.64      0.62      1529\n           6       0.66      0.72      0.69      1455\n\n    accuracy                           0.65      8265\n   macro avg       0.66      0.66      0.66      8265\nweighted avg       0.64      0.65      0.64      8265\n')
+[INFO][Multisensor-Dataset][2021-09-25 01:50:51,067]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 01:50:51,403]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 01:50:51,404]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 01:50:52,901]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 01:50:52,911]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 01:50:52,923]: ('confusion_matrix', array([[ 488,    1,   13,    0,   71,   31,    0],
+       [  24,  288,   17,   48,   34,    5,    6],
+       [   8,   13,  805,    5,   72,   31,  525],
+       [   0,   22,    3, 1270,    9,  100,    1],
+       [  37,   98,   43,  250,  470,  484,    9],
+       [   5,    0,   27,  205,  298,  986,    8],
+       [   1,   14,  378,    0,    8,    8, 1046]]))
+[INFO][Multisensor-Dataset][2021-09-25 01:50:53,289]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 01:50:53,290]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 01:50:54,891]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 01:50:54,893]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 01:51:11,148]: ('crs_vldtn', 0.6347125021870811)
+[INFO][Multisensor-Dataset][2021-09-25 01:51:11,481]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 01:51:11,816]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 01:51:11,817]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 01:51:13,509]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 01:51:13,513]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 01:51:13,538]: ('classification_report', '              precision    recall  f1-score   support\n\n           0       0.87      0.81      0.84       604\n           1       0.66      0.68      0.67       422\n           2       0.63      0.55      0.59      1459\n           3       0.71      0.90      0.80      1405\n           4       0.49      0.34      0.40      1391\n           5       0.60      0.64      0.62      1529\n           6       0.66      0.72      0.69      1455\n\n    accuracy                           0.65      8265\n   macro avg       0.66      0.66      0.66      8265\nweighted avg       0.64      0.65      0.64      8265\n')
+[INFO][Multisensor-Dataset][2021-09-25 03:07:17,109]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 03:07:17,489]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 03:07:17,494]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:07:26,231]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:07:26,248]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 03:07:26,256]: ('confusion_matrix', array([[ 488,    1,   13,    0,   71,   31,    0],
+       [  24,  288,   17,   48,   34,    5,    6],
+       [   8,   13,  805,    5,   72,   31,  525],
+       [   0,   22,    3, 1270,    9,  100,    1],
+       [  37,   98,   43,  250,  470,  484,    9],
+       [   5,    0,   27,  205,  298,  986,    8],
+       [   1,   14,  378,    0,    8,    8, 1046]]))
+[INFO][Multisensor-Dataset][2021-09-25 03:07:26,705]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 03:07:26,707]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:07:34,273]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:07:34,282]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 03:08:34,474]: ('crs_vldtn', 0.6347125021870811)
+[INFO][Multisensor-Dataset][2021-09-25 03:08:35,017]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 03:08:35,393]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 03:08:35,394]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:08:40,462]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:08:40,468]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 03:08:40,540]: ('classification_report', '              precision    recall  f1-score   support\n\n           0       0.87      0.81      0.84       604\n           1       0.66      0.68      0.67       422\n           2       0.63      0.55      0.59      1459\n           3       0.71      0.90      0.80      1405\n           4       0.49      0.34      0.40      1391\n           5       0.60      0.64      0.62      1529\n           6       0.66      0.72      0.69      1455\n\n    accuracy                           0.65      8265\n   macro avg       0.66      0.66      0.66      8265\nweighted avg       0.64      0.65      0.64      8265\n')
+[INFO][Multisensor-Dataset][2021-09-25 03:09:43,313]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 03:09:43,316]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:09:51,958]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:09:51,987]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 03:15:39,161]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 03:15:39,540]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 03:15:39,542]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:15:46,416]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:15:46,426]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 03:15:46,430]: ('confusion_matrix', array([[ 488,    1,   13,    0,   71,   31,    0],
+       [  24,  288,   17,   48,   34,    5,    6],
+       [   8,   13,  805,    5,   72,   31,  525],
+       [   0,   22,    3, 1270,    9,  100,    1],
+       [  37,   98,   43,  250,  470,  484,    9],
+       [   5,    0,   27,  205,  298,  986,    8],
+       [   1,   14,  378,    0,    8,    8, 1046]]))
+[INFO][Multisensor-Dataset][2021-09-25 03:15:46,834]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 03:15:46,835]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:15:51,607]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:15:51,620]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 03:16:36,557]: ('crs_vldtn', 0.6347367035423569)
+[INFO][Multisensor-Dataset][2021-09-25 03:16:37,013]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 03:16:37,540]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 03:16:37,543]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:16:41,621]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:16:41,625]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 03:16:41,706]: ('classification_report', '              precision    recall  f1-score   support\n\n           0       0.87      0.81      0.84       604\n           1       0.66      0.68      0.67       422\n           2       0.63      0.55      0.59      1459\n           3       0.71      0.90      0.80      1405\n           4       0.49      0.34      0.40      1391\n           5       0.60      0.64      0.62      1529\n           6       0.66      0.72      0.69      1455\n\n    accuracy                           0.65      8265\n   macro avg       0.66      0.66      0.66      8265\nweighted avg       0.64      0.65      0.64      8265\n')
+[INFO][Multisensor-Dataset][2021-09-25 03:17:04,169]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 03:17:04,171]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:17:12,392]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:17:12,404]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 03:19:36,992]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 03:19:37,322]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 03:19:37,323]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:19:44,027]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:19:44,036]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 03:19:44,042]: ('confusion_matrix', array([[ 488,    1,   13,    0,   71,   31,    0],
+       [  24,  288,   17,   48,   34,    5,    6],
+       [   8,   13,  805,    5,   72,   31,  525],
+       [   0,   22,    3, 1270,    9,  100,    1],
+       [  37,   98,   43,  250,  470,  484,    9],
+       [   5,    0,   27,  205,  298,  986,    8],
+       [   1,   14,  378,    0,    8,    8, 1046]]))
+[INFO][Multisensor-Dataset][2021-09-25 03:19:44,488]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 03:19:44,490]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:19:49,453]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:19:49,468]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 03:20:38,914]: ('crs_vldtn', 0.6347125021870811)
+[INFO][Multisensor-Dataset][2021-09-25 03:20:39,290]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 03:20:39,634]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 03:20:39,636]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:20:43,994]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:20:44,002]: Prdicting the values with solver saga
+[INFO][Multisensor-Dataset][2021-09-25 03:20:44,073]: ('classification_report', '              precision    recall  f1-score   support\n\n           0       0.87      0.81      0.84       604\n           1       0.66      0.68      0.67       422\n           2       0.63      0.55      0.59      1459\n           3       0.71      0.90      0.80      1405\n           4       0.49      0.34      0.40      1391\n           5       0.60      0.64      0.62      1529\n           6       0.66      0.72      0.69      1455\n\n    accuracy                           0.65      8265\n   macro avg       0.66      0.66      0.66      8265\nweighted avg       0.64      0.65      0.64      8265\n')
+[INFO][Multisensor-Dataset][2021-09-25 03:21:04,221]: Splitting the data into train test
+[INFO][Multisensor-Dataset][2021-09-25 03:21:04,224]: Used logistic regression with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:21:12,067]: Training the model with solver saga and multi class name is ovr
+[INFO][Multisensor-Dataset][2021-09-25 03:21:12,077]: Prdicting the values with solver saga
